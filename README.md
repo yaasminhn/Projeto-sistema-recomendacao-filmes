@@ -43,8 +43,8 @@ O projeto utiliza o arquivo `imdb_top_1000.csv`, contendo informações como:
 
 2. No terminal da instância, clone o repositório:
 ```bash
-git clone https://github.com/yasminhn/sistema-recomendacao-filmes.git
-cd sistema-recomendacao-filmes
+git clone https://github.com/yaasminhn/Projeto_sistema_recomendacao_filmes.git
+cd Projeto_sistema_recomendacao_filmes
 ```
 3. Suba a aplicação:
 ```bash
@@ -54,6 +54,7 @@ docker-compose up --build
 ---
 
 ![WhatsApp Image 2025-06-22 at 20 53 13](https://github.com/user-attachments/assets/aa772e93-fba3-4776-b48d-edf233c43425)
+
 
 
 
